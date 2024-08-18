@@ -26,9 +26,10 @@ const config = {
     extend: {
 
       colors: {
-        primary: '#1c1c22',
+        primary: '#201E1F',
+        secondary: '#F8F4F9',
         accent: {
-          DEFAULT: '#FFEB3B',
+          DEFAULT: '#FF4000',
           hover: '#00e187',
         }
       },
